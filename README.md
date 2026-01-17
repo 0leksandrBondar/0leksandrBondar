@@ -95,13 +95,6 @@ Experienced in large codebases, production bug fixing, crash log analysis, and i
 
 ---
 
-## Education
-
-- Secondary School (11 years)  
-- Self-taught software developer with strong focus on commercial experience and real-world projects
-
----
-
 ## English
 
 - **B1 — Intermediate**  
