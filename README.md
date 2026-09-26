@@ -12,7 +12,6 @@
 
 📍 Warsaw, Poland  
 📧 aleksandrr.bondar@gmail.com  
-📞 +48 692 548 437  
 💻 GitHub: https://github.com/0leksandrBondar  
 
 ---
